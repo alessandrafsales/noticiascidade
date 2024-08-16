@@ -1,2 +1,3 @@
-# noticiascidade
-Um site fictício de notícias - Realizei no curso de desenvolvimento web.
+Olá! ✨
+
+Realizei esse projeto cursando "Desenvolvimento Web com Python e Django" na Udemy, na seção HTML+CSS.
